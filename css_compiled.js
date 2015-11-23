@@ -57,3 +57,4 @@ lt.plugins.css.css_lang = lt.object.create.call(null,new cljs.core.Keyword("lt.p
 }
 
 //# sourceMappingURL=css_compiled.js.map
+//# vinod kumar
